@@ -36,7 +36,7 @@ To run the model for clinical concept extraction and mapping:
 1. Ensure you have all the dependencies installed.
 2. Execute the main script in the **code/** directory:
    ```bash
-   python code/main.py
+   python code/evaluate.py
    ```
 3. Results will be saved in the specified output directory, and analysis visuals will be available in **model-img-and-analysis/**.
 
