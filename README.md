@@ -1,4 +1,4 @@
-# Automated Information Extraction for Clinical Concept Mapping in Patient Notes
+# Automated Information Extraction from Clinical Patient Notes
 
 This project aims to develop an automated system for extracting and mapping clinical concepts from patient notes. The objective is to improve the scoring process of patient notes in medical licensing exams, making it faster, more transparent, and reliable by leveraging machine learning and natural language processing.
 
