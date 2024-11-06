@@ -15,7 +15,6 @@ The repository contains the following structure:
 
 - **code/**: Contains all code files for preprocessing, model training, evaluation, and prediction.
 - **model-img-and-analysis/**: Contains images of models, visualizations, and detailed analysis reports.
-- **project report.pdf**: Detailed project report, covering objectives, data collection, preprocessing, modeling, results, and conclusions.
 - **README.md**: This file, providing an overview of the project and instructions.
 
 ## Installation
