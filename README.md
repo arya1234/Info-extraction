@@ -1,7 +1,3 @@
-Here's a filled-in README template for your GitHub repository:
-
----
-
 # Automated Information Extraction for Clinical Concept Mapping in Patient Notes
 
 This project aims to develop an automated system for extracting and mapping clinical concepts from patient notes. The objective is to improve the scoring process of patient notes in medical licensing exams, making it faster, more transparent, and reliable by leveraging machine learning and natural language processing.
@@ -57,7 +53,3 @@ The **model-img-and-analysis** folder contains visualizations of the model perfo
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-This filled-in template should now be ready for your GitHub repository. Adjust any specifics, such as repository name and usernames, as needed.
