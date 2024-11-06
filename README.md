@@ -7,7 +7,6 @@ This project aims to develop an automated system for extracting and mapping clin
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model and Analysis](#model-and-analysis)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Project Structure
@@ -23,7 +22,7 @@ The repository contains the following structure:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/clinical-concept-mapping.git
+   git clone https://github.com/arya1234/Info-extraction.git
    cd clinical-concept-mapping
    ```
 2. Install the required dependencies:
@@ -45,10 +44,6 @@ To run the model for clinical concept extraction and mapping:
 ## Model and Analysis
 
 The **model-img-and-analysis** folder contains visualizations of the model performance, accuracy metrics, and analysis results. These include representations of feature extraction, concept mapping, and model evaluation. For a deeper understanding of the model and its results, explore this folder.
-
-## Contributors
-
-- **Arya Dhorajiya** - [aryadho](https://github.com/aryadho)
 
 ## License
 
